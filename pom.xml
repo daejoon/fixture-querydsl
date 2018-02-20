@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ddoong2</groupId>
-	<artifactId>fixture_querydsl</artifactId>
+	<artifactId>fixture-querydsl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>fixture_querydsl</name>
+	<name>fixture-querydsl</name>
 	<description>QueryDslRepositorySupport 버그 픽스</description>
 
 	<parent>

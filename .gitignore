@@ -149,4 +149,5 @@ fabric.properties
 
 
 *.iml
+!maven-wrapper.jar
 
