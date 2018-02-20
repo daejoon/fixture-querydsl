@@ -1,5 +1,5 @@
-Spring boot 1.5.8.RELEASE QueryDslRepositorySupport
-===================================================
+QueryDslRepositorySupport for Spring boot 1.5.8.RELEASE
+=======================================================
 
 > 1.5.7.RELEASE에서 1.5.8.RELEASE로 올리고 나서
 > QueryDslRepositorySupport 클래스에서 예외가 발생했다.
